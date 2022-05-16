@@ -16,9 +16,9 @@
 
 [![Twitter: Acuedd](https://img.shields.io/twitter/follow/Acuedd?style=social)](https://twitter.com/AcuEdd)
 [![Linkedin: Acuedd](https://img.shields.io/badge/-acuedd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acuedd/)](https://www.linkedin.com/in/acuedd/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/acuedd22?label=follow&style=social)](httpshttps://github.com/acuedd22)
+[![GitHub acuedd](https://img.shields.io/github/followers/acuedd22?label=follow&style=social)](https://github.com/acuedd22)
 Personal -->
-[![GitHub Thaiane](https://img.shields.io/github/followers/acuedd?label=follow&style=social)](httpshttps://github.com/acuedd)
+[![GitHub Personal: acuedd](https://img.shields.io/github/followers/acuedd?label=follow&style=social)](https://github.com/acuedd)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

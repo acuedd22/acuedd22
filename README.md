@@ -2,7 +2,7 @@
 
 
 
-<h2> Hi, I'm Edward Acu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, you can found me with my personal account like acuedd too
+<h2> Hi, I'm Edward Acu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, you can find me with my personal account like acuedd too
 </h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p>
@@ -17,6 +17,7 @@
 [![Twitter: Acuedd](https://img.shields.io/twitter/follow/Acuedd?style=social)](https://twitter.com/AcuEdd)
 [![Linkedin: Acuedd](https://img.shields.io/badge/-acuedd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acuedd/)](https://www.linkedin.com/in/acuedd/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/acuedd22?label=follow&style=social)](httpshttps://github.com/acuedd22)
+Personal -->
 [![GitHub Thaiane](https://img.shields.io/github/followers/acuedd?label=follow&style=social)](httpshttps://github.com/acuedd)
 
 

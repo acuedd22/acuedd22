@@ -9,7 +9,7 @@
   <em>Software Enginner at <a href="https://www.umg.edu.gt/"> University Mariano Gálvez de Guatemala </a>
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
-  Sr. Applications Developer IIC at <a href="https://homeland.com.gt/">Telus International Digital Solutions</a>
+  Sr. Applications Developer IIC at <a href="https://telus.com/">Telus International Digital Solutions</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
